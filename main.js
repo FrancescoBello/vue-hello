@@ -4,7 +4,6 @@ var mess = new Vue(
     data :{
       messaggio : 'welcome on boolean'
     }
-    import image from '/logo.png'
 
   }
 )
